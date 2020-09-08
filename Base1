@@ -1,0 +1,5 @@
+Print('hola!')
+Nombre_de_usuario='lilo'
+Print('bueno,empecemos a jugar!')
+Mi_funcion=(nombre,apellido)
+Print=('bueno empieza ahora,joven nombre')
